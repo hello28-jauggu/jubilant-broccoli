@@ -1,0 +1,2 @@
+# HTTP ip:port from http.txt — public lists often dead
+datacenter-ww.lightningproxies.net:1338:hTYU7u5V5Bg6G7G5h-ttl-0:kB22kEq0FsNLm5v
